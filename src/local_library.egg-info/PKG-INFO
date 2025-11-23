@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: local_library
+Version: 0.1.0
+Summary: A standardized file ingestion tool for Text, Office, and PDF files.
+Author-email: Gherghinoiu Daniel <gherghinoiu_daniel@yahoo.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: pypdf
+Requires-Dist: python-docx
+Requires-Dist: openpyxl
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"

@@ -1,0 +1,13 @@
+pyproject.toml
+src/local_library.egg-info/PKG-INFO
+src/local_library.egg-info/SOURCES.txt
+src/local_library.egg-info/dependency_links.txt
+src/local_library.egg-info/requires.txt
+src/local_library.egg-info/top_level.txt
+src/locallib/__init__.py
+src/locallib/ingest.py
+src/locallib/schemas.py
+src/locallib/parsers/__init__.py
+src/locallib/parsers/office_parser.py
+src/locallib/parsers/pdf_parser.py
+src/locallib/parsers/txt_parser.py
